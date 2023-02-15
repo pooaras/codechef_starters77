@@ -3,6 +3,7 @@ Problem
 problem code:
 Tom and Jerry Chase
 soluton:
+<code>
 /* package codechef; // don't place package name! */
 
 import java.util.*;
@@ -27,7 +28,7 @@ class Codechef
 		        System.out.println("no");
 		}
 	}
-}
+} </code>
 
 Problem Code:
 AIRLINES
